@@ -1,1 +1,1 @@
-# git-grou-practice
+# git-group-practice
